@@ -1,5 +1,7 @@
 ## Segment Anything Model with object detection
 
+![enter image description here](https://lh3.googleusercontent.com/5Vi-ILZY-xi9UBdX9vzTb6pUfddwvszhzWqIS5CODbm3ASOzB493PjRwVLt8RIQUT2E2IFRGMIV2LOA26HCSXPs9uGYAeS-I-Afek8TD0q8TAtvrHB7I5BsACkfmGPztvy6WmjN_uq-Vv48oR3Hjc3I)
+
  - การอ่านค่าความสูงของอุปกรณ์วัดระดับในเเม่น้ำ
    เพื่อช่วยเเจ้งเตือนให้กับชาวบ้านที่ได้รับผลกระทบจากอุทกภัย
    
